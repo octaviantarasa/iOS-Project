@@ -18,10 +18,13 @@
 		8C35E96C16FA2ACF001AE602 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C35E96B16FA2ACF001AE602 /* Default-568h@2x.png */; };
 		8C35E97516FA2B01001AE602 /* FirstPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C35E97316FA2B01001AE602 /* FirstPageViewController.m */; };
 		8C35E97616FA2B01001AE602 /* FirstPageViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C35E97416FA2B01001AE602 /* FirstPageViewController.xib */; };
+<<<<<<< HEAD
 		8C626F741701D45D006BE03B /* SignInViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C626F721701D45D006BE03B /* SignInViewController.m */; };
 		8C626F751701D45D006BE03B /* SignInViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C626F731701D45D006BE03B /* SignInViewController.xib */; };
 		8C626F791701D640006BE03B /* CreateAccountViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C626F771701D640006BE03B /* CreateAccountViewController.m */; };
 		8C626F7A1701D640006BE03B /* CreateAccountViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C626F781701D640006BE03B /* CreateAccountViewController.xib */; };
+=======
+>>>>>>> 88a57bf1241c6faa5beab79648980e1ceaddfcfc
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,12 +44,15 @@
 		8C35E97216FA2B01001AE602 /* FirstPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstPageViewController.h; sourceTree = "<group>"; };
 		8C35E97316FA2B01001AE602 /* FirstPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstPageViewController.m; sourceTree = "<group>"; };
 		8C35E97416FA2B01001AE602 /* FirstPageViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FirstPageViewController.xib; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		8C626F711701D45D006BE03B /* SignInViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignInViewController.h; sourceTree = "<group>"; };
 		8C626F721701D45D006BE03B /* SignInViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignInViewController.m; sourceTree = "<group>"; };
 		8C626F731701D45D006BE03B /* SignInViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SignInViewController.xib; sourceTree = "<group>"; };
 		8C626F761701D640006BE03B /* CreateAccountViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreateAccountViewController.h; sourceTree = "<group>"; };
 		8C626F771701D640006BE03B /* CreateAccountViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreateAccountViewController.m; sourceTree = "<group>"; };
 		8C626F781701D640006BE03B /* CreateAccountViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CreateAccountViewController.xib; sourceTree = "<group>"; };
+=======
+>>>>>>> 88a57bf1241c6faa5beab79648980e1ceaddfcfc
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,12 +72,15 @@
 		8C35E94916FA2ACF001AE602 = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				8C626F711701D45D006BE03B /* SignInViewController.h */,
 				8C626F761701D640006BE03B /* CreateAccountViewController.h */,
 				8C626F771701D640006BE03B /* CreateAccountViewController.m */,
 				8C626F781701D640006BE03B /* CreateAccountViewController.xib */,
 				8C626F721701D45D006BE03B /* SignInViewController.m */,
 				8C626F731701D45D006BE03B /* SignInViewController.xib */,
+=======
+>>>>>>> 88a57bf1241c6faa5beab79648980e1ceaddfcfc
 				8C35E97216FA2B01001AE602 /* FirstPageViewController.h */,
 				8C35E97316FA2B01001AE602 /* FirstPageViewController.m */,
 				8C35E97416FA2B01001AE602 /* FirstPageViewController.xib */,
@@ -179,8 +188,11 @@
 				8C35E96A16FA2ACF001AE602 /* Default@2x.png in Resources */,
 				8C35E96C16FA2ACF001AE602 /* Default-568h@2x.png in Resources */,
 				8C35E97616FA2B01001AE602 /* FirstPageViewController.xib in Resources */,
+<<<<<<< HEAD
 				8C626F751701D45D006BE03B /* SignInViewController.xib in Resources */,
 				8C626F7A1701D640006BE03B /* CreateAccountViewController.xib in Resources */,
+=======
+>>>>>>> 88a57bf1241c6faa5beab79648980e1ceaddfcfc
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -194,8 +206,11 @@
 				8C35E96216FA2ACF001AE602 /* main.m in Sources */,
 				8C35E96616FA2ACF001AE602 /* AppDelegate.m in Sources */,
 				8C35E97516FA2B01001AE602 /* FirstPageViewController.m in Sources */,
+<<<<<<< HEAD
 				8C626F741701D45D006BE03B /* SignInViewController.m in Sources */,
 				8C626F791701D640006BE03B /* CreateAccountViewController.m in Sources */,
+=======
+>>>>>>> 88a57bf1241c6faa5beab79648980e1ceaddfcfc
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -238,7 +253,11 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+=======
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+>>>>>>> 88a57bf1241c6faa5beab79648980e1ceaddfcfc
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -262,7 +281,11 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+=======
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+>>>>>>> 88a57bf1241c6faa5beab79648980e1ceaddfcfc
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -310,7 +333,10 @@
 				8C35E97116FA2ACF001AE602 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+<<<<<<< HEAD
 			defaultConfigurationName = Release;
+=======
+>>>>>>> 88a57bf1241c6faa5beab79648980e1ceaddfcfc
 		};
 /* End XCConfigurationList section */
 	};
